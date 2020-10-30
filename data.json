@@ -1,0 +1,57 @@
+{
+    "headers": {
+        "0":"Estudiante",
+        "1":"id",
+        "2":"Carrera", 
+        "3":"image",
+        "4":"thumbnail"
+    },
+    "data":[
+        {
+            "Estudiante": "Marcela Melgar",
+            "ID": "20200487",
+            "Carrera": "Computer Science",
+            "image":{
+                "url": "images/0001.jpg",
+                "width": "200",
+                "height": "200"
+                },
+            "thumbnail":
+            {
+                "url": "images/thumbnails/0001.jpg",
+                "width": "32",
+                "height": "32"
+            }
+        },
+        {
+            "Estudiante": "Carlos Murillo",
+            "ID": "20200132",
+            "Carrera": "Ingenieria Empresarial",
+            "image":{
+                "url": "images/0002.jpg",
+                "width": "200",
+                "height": "200"
+                },
+            "thumbnail":{
+                "url": "images/thumbnails/0002.jpg",
+                "width": "32",
+                "height": "32"
+            }
+        },
+        {
+            "Estudiante": "Mariana Mendez",
+            "ID": "20364912",
+            "Carrera": "Medicina",
+            "image":{
+                "url": "images/0003.jpg",
+                "width": "200",
+                "height": "200"
+                },
+            "thumbnail":{
+                "url": "images/thumbnails/0003.jpg",
+                "width": "32",
+                "height": "32"
+            }
+        }
+    ]
+}
